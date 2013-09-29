@@ -1,6 +1,6 @@
 {
   "name": "mangleify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Stream module for mangling JavaScript files",
   "main": "index.js",
   "scripts": {
